@@ -1,0 +1,68 @@
+= Prosit 1 : Introduction à PMI
+
+* Animateur : Karl
+* Secrétaire : Adrien D
+* Scribe : Joany
+* Gestionnaire : Aurélie
+
+== 1.Mots clés
+
+* PMI :
+* Matrix structure :
+* Go – no go :
+* PMBOK :
+* PMI project framework :
+* Cycle de vie (projet) :
+* Matrice de Rita :
+* Knowledge area matrix :
+* Portfolio :
+* Process group :
+* Pilot :
+* Certification PMI :
+* Project management plan :
+* Management :
+* Gestion de projet :
+
+== 2.Contexte
+
+Il s’agit d’un échange de mail entre John Belushi et Jim Morrison à propos de changements de structure organisationnelle.
+
+== 3.Analyse du besoin
+
+John Belushi doit savoir si PMI est applicable dans l’entreprise.
+
+== 4.Généralisation
+
+* Etre capable d’identifier et définir les processus PMI.
+* Etre capable de définir un plan de gestion de projet.
+
+== 5.Hypothèses
+
+* PMI est une déontologie de gestion de projet recommandée en entreprise.
+* PMI ne s’applique pas qu’à des projets informatiques.
+* Un projet PMI est découpé en 5 phases :
+** 1. Initialisation
+** 2. Planification
+** 3. Réalisation
+** 4. Contrôle
+** 5. Clôture
+* Il y a trois niveaux de certification PMI.
+* PMI est un programme complet de gestion de projet.
+* PMI propose des outils de management en dehors de la gestion de projet.
+* Un portfolio de projet est un regroupement des projets dont l’entreprise s’occupe.
+* PMI est plus adapté à un projet de longue durée (mois/année) comparée à un projet de quelques jours/semaines.
+* Un projet a un début, une fin et est unique.
+* La gestion de projet inclut l’atteinte des objectifs en fonction du temps, du coût et de la qualité.
+* La gestion de projet permet d’appréhender les risques, de respecter les délais.
+* Les méthodes agiles se servent de PMI.
+* PMI permet facilement les changements en cours de projet.
+* Il existe des bureaux de consultants spécialisés sur PMI en France.
+* Il y a des prérequis pour passer les certifications PMI et elles ont une durée de validité limitée.
+* Il y a des versions de PMI.
+
+== 6.Plan d’action
+
+* Faire un rapport répondant aux questions du premier mail.
+* Définir PMI et son organisation, ses étapes.
+* Trouver le fonctionnement dans le détail ou/et trouver un projet utilisant PMI afin de comprendre la façon dont il a été utilisé.
+* Voir si les prérequis et la logique de PMI correspondent au projet. 
