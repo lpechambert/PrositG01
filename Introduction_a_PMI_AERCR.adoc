@@ -1,0 +1,148 @@
+= Prosit 1 : Introduction à PMI
+
+* Animateur : Karl
+* Secrétaire : Adrien D
+* Scribe : Joany
+* Gestionnaire : Aurélie
+
+== 1.Mots clés
+
+===== *PMI* : 
+
+Association professionnelle à but non lucratif qui propose des méthodes de Gestion de projet. 
+Ses fondements reposent sur dix domaines de connaissance :
+
+* l’intégration
+* le contenu
+* les délais
+* les coûts
+* la qualité
+* les ressources humaines
+* la communication
+* les risques
+* les approvisionnements
+* les parties prenantes (ajout de la version 5)
+
+La méthodologie PMI propose 47 processus répartis dans les différents domaines de connaissance.
+Les processus sont répartis en cinq groupes :
+
+* Démarrage (GD) : 2 processus
+* Planification (GP) : 24 processus
+* Exécution (GE) : 8 processus
+* Suivi et Maîtrise (GSM) : 11 processus
+* Clôture (GC) : 2 processus +
+
+===== *Matrix structure* :
+
+Un type d’organisation regroupant les personnes selon leurs compétence.
+Les avantages par rapport à une organisation fonctionnelle sont les suivants :
+
+* les individus peuvent être choisis en fonction des besoins du projet,
+* l’utilisation d'une équipe de projet qui est dynamique et capable de voir les problèmes d’une manière différente de celle des spécialistes a été rassemblée dans un nouvel environnement,
+* les gestionnaires de projet sont directement responsables de la réalisation du projet, avec un délai et un budget précis.
+
+Cette organisation a également des inconvénients :
+
+* un conflit de loyauté entre les gestionnaires hiérarchiques et les gestionnaires de projet sur l'allocation des ressources.
+* les projets peuvent être difficiles à contrôler si les équipes ont une grande indépendance.
+* les coûts peuvent être augmentés si plusieurs gérants (les gestionnaires de projet) sont créés grâce à l'utilisation d'équipes de projet. +
+
+===== *Go – no go* :
+
+Modalité dichotomique de la conclusion d’une étude. Soit les résultats sont conformes aux attentes et la décision est alors favorable (Go). Soit les résultats ne sont pas conformes aux attentes et le projet est arrêté (No go). 
+
+===== *PMBOK* :
+
+Guide du Project Management Institute définissant les champs de connaissance couvrant la gestion de projet, et recensant les bonnes pratiques professionnelles en la matière. À ce titre, il sert de base de référence, pour établir les contenus de cours sur la gestion de projet et pour l'élaboration d'examens de certification.
+
+
+===== *Cycle de vie (projet)* :
+
+http://gpp.oiq.qc.ca/le_cycle_de_vie_d_un_projet.htm
+
+===== *Matrice de Rita* :
+
+Rita process game, jeux test par Rita Mulcahy dans les préparation au PMP.
+
+===== *Portfolio* :
+
+La gestion de portefeuille projets est la discipline traitant des projets pris d'un point de vue global dans un but de sélection et d'arbitrage. Alors que la gestion de projet s'attache à « bien faire les projets » domaine de l'opérationnel, la gestion de portefeuille projets vise à « faire les bons projets » - domaine du décisionnel.
+
+===== *Process group* :
+
+The five process groups are:
+
+* Initiating : processes performed to define a new project or a new phase of an existing project by obtaining authorization to start the project or phase.
+* Planning : Those processes required to establish the scope of the project, refine the objectives, and define the course of action required to attain the objectives that the project was undertaken to achieve.
+* Executing : Those processes performed to complete the work defined in the project management plan to satisfy the project specifications
+* Monitoring and Controlling : Those processes required to track, review, and regulate the progress and performance of the project; identify any areas in which changes to the plan are required; and initiate the corresponding changes.
+* Closing : Those processes performed to finalize all activities across all Process Groups to formally close the project or phase. +
+
+===== *Certification PMI* :
+
+Il y en a 8 :
+
+* PMP : Project Management Professional, le standard. Il valide les compétences de project manager ainsi qu’en “leading” et “directing” de projet et d’équipes.
+* PgMP : Program Management Professional. Pour ceux que manage plusieurs projets complexes à finalités stratégiques ou organisationnels.
+* PfMP : Portfolio Management Professional. Reconnait l’experience des managers gérant des “porte-feuille” de projets.Il prouve l’abilité à coordoner le management de un ou plusieurs porfolios à des fins organisationnelles.
+* CAPM : Certified Associate in Project Management. Prouve la compréhension des connaissances fondamentales, des terminologies et des process de project management.
+* PMI-PBA : PMI Professional in Business Analysis. Met en valeur l’expertise en business analysis. Il met l’accent sur l’abilité à travailler efficacement avec des actionnaires afin de définir leurs besoins pro, leurs aboutissants et de conduire à bien les résultats de l’entreprise.
+* PMI-ACP : PMI Agile Certified Practitioner. Crée pour les agilistes. Il valide le fait de savoir appliquer les methodes agiles dans les projets. Il nécessite une combinaison d’entrainement, d’experience ainsi qu’un examen. Il croise différentes approches come SCUM, XP, LEAN ou Kanban
+* PMI-RMP : PMI Risk Management Professional. Il reconnait les connaissances et expertise dans le domaine de l’evaluation et l’identification des risques d’un projet. La minimalisation des menaces et de savoir tirer profit des opportunités.
+* PMI-SP :P MI Scheduling Professional. Reconnais les connaissances et l’experience avancé dans le domaine spécialisé du développement et la maintenance des planning de projet. +
+
+===== *Project management plan* :
+
+A project plan, according to the Project Management Body of Knowledge (PMBOK), is: "...a formal, approved document used to guide both project execution and project control. The primary uses of the project plan are to document planning assumptions and decisions, facilitate communication among project stakeholders, and document approved scope, cost, and schedule baselines. A project plan may be summarized or detailed.
+
+===== *Management* :
+
+Le management est la mise en œuvre des moyens humains et matériels d'une entreprise pour atteindre ses objectifs. Le management désigne aussi ses responsables.
+
+===== *Gestion de projet* :
+
+La gestion de projet est une démarche visant à organiser de bout en bout le bon déroulement d’un projet. C'est tout l'opérationnel et le tactique qui fait qu'un projet aboutit dans un triangle représentant l'équilibre qualité-coût-délai (QCD). Le management de projet assume le pilotage stratégique du projet.
+
+== 2.Contexte
+
+Il s’agit d’un échange de mail entre John Belushi et Jim Morrison à propos de changements de structure organisationnelle.
+
+== 3.Analyse du besoin
+
+John Belushi doit savoir si PMI est applicable dans l’entreprise.
+
+== 4.Généralisation
+
+* Etre capable d’identifier et définir les processus PMI.
+* Etre capable de définir un plan de gestion de projet.
+
+== 5.Hypothèses
+
+* PMI est une déontologie de gestion de projet recommandée en entreprise.
+* PMI ne s’applique pas qu’à des projets informatiques.
+* Un projet PMI est découpé en 5 phases :
+** 1. Initialisation
+** 2. Planification
+** 3. Réalisation
+** 4. Contrôle
+** 5. Clôture
+* Il y a trois niveaux de certification PMI.
+* PMI est un programme complet de gestion de projet.
+* PMI propose des outils de management en dehors de la gestion de projet.
+* Un portfolio de projet est un regroupement des projets dont l’entreprise s’occupe.
+* PMI est plus adapté à un projet de longue durée (mois/année) comparée à un projet de quelques jours/semaines.
+* Un projet a un début, une fin et est unique.
+* La gestion de projet inclut l’atteinte des objectifs en fonction du temps, du coût et de la qualité.
+* La gestion de projet permet d’appréhender les risques, de respecter les délais.
+* Les méthodes agiles se servent de PMI.
+* PMI permet facilement les changements en cours de projet.
+* Il existe des bureaux de consultants spécialisés sur PMI en France.
+* Il y a des prérequis pour passer les certifications PMI et elles ont une durée de validité limitée.
+* Il y a des versions de PMI.
+
+== 6.Plan d’action
+
+* Faire un rapport répondant aux questions du premier mail.
+* Définir PMI et son organisation, ses étapes.
+* Trouver le fonctionnement dans le détail ou/et trouver un projet utilisant PMI afin de comprendre la façon dont il a été utilisé.
+* Voir si les prérequis et la logique de PMI correspondent au projet. 
