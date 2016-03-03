@@ -1,0 +1,50 @@
+
+= Prosit 2 : E-Business
+
+* Animateur : Geoffroy
+* Secrétaire : Lucas
+* Scribe : Franck
+* Gestionnaire : Pan
+
+== 1.Mots clés
+
+===== *B2B* : 
+===== *B2C* :
+===== *Web dynamique* :
+===== *E-Business* :
+===== *E-Commerce* :
+===== *E-Procurement* :
+===== *stratégie* :
+
+== 2.Context
+ 
+On est à la tête d’une petite enseigne de bijouterie, la concurrence est rude.
+ 
+== 3.Besoin
+ 
+Mettre en place une stratégie commerciale pour devenir le plus compétitif possible et  ainsi stabiliser le chiffre d’affaire de l’entreprise.
+ 
+== 4.Généralisation
+ 
+S’initier à la gestion commerciale (e business)
+ 
+== 5.Hypothèses
+ 
+* La stratégie commerciale est ce que l’on met en œuvre pour vendre (un produit ou un service)
+* B2B = business to Business, Quand une entreprise vend à une autre entreprise
+* B2C = Business to Customer, Quand une entreprise vend à des particuliers
+* Le E-commerce peut élargir sa clientelle (son type de client)
+* La mise en place d’une stratégie peut être un projet.
+* Business désigne ce qui fait fonctionner l’entreprise et le e-business est la notion de business appliqué au web
+* Le e-commerce permet de faciliter l’accès au produit
+* Le e-business permet la récupération et l’achat des données utilisateurs pour cibler le besoin du client.
+* Le business est une action commerciale locale, alors que le e-business touche beaucoup plus de monde (simplicité de la publicité)
+ 
+== 6.Plan d’action
+ 
+* Réfléchir à ce qu’est une stratégie.
+* Dresser un tableau des avantages et inconvénients du e-business.
+* Lister les différents outils E Business9
+ 
+ 
+
